@@ -1,0 +1,11 @@
+/home/pratik/d_code/DotNet/Practice/PracticePractical/b2/OfficeLib/bin/Debug/net8.0/OfficeLib.deps.json
+/home/pratik/d_code/DotNet/Practice/PracticePractical/b2/OfficeLib/bin/Debug/net8.0/OfficeLib.dll
+/home/pratik/d_code/DotNet/Practice/PracticePractical/b2/OfficeLib/bin/Debug/net8.0/OfficeLib.pdb
+/home/pratik/d_code/DotNet/Practice/PracticePractical/b2/OfficeLib/obj/Debug/net8.0/OfficeLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/pratik/d_code/DotNet/Practice/PracticePractical/b2/OfficeLib/obj/Debug/net8.0/OfficeLib.AssemblyInfoInputs.cache
+/home/pratik/d_code/DotNet/Practice/PracticePractical/b2/OfficeLib/obj/Debug/net8.0/OfficeLib.AssemblyInfo.cs
+/home/pratik/d_code/DotNet/Practice/PracticePractical/b2/OfficeLib/obj/Debug/net8.0/OfficeLib.csproj.CoreCompileInputs.cache
+/home/pratik/d_code/DotNet/Practice/PracticePractical/b2/OfficeLib/obj/Debug/net8.0/OfficeLib.dll
+/home/pratik/d_code/DotNet/Practice/PracticePractical/b2/OfficeLib/obj/Debug/net8.0/refint/OfficeLib.dll
+/home/pratik/d_code/DotNet/Practice/PracticePractical/b2/OfficeLib/obj/Debug/net8.0/OfficeLib.pdb
+/home/pratik/d_code/DotNet/Practice/PracticePractical/b2/OfficeLib/obj/Debug/net8.0/ref/OfficeLib.dll

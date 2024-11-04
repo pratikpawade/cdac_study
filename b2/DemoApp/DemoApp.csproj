@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- 
+      current project (DemoApp) depends upon the types
+      defined in the assembly compiled from StaffLib project
+    -->
+    <ProjectReference Include = "../OfficeLib/OfficeLib.csproj"/>
+  </ItemGroup>
+
+</Project>
